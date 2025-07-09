@@ -3,4 +3,5 @@
 
 加热炉闭环控制结构：
 
-![image-20250709214554330](C:\Users\Lrb49\AppData\Roaming\Typora\typora-user-images\image-20250709214554330.png)
+![image](https://github.com/user-attachments/assets/c3fc0f5b-2701-4abb-88d7-765e2ecdd96d)
+
